@@ -1,1 +1,3 @@
 test5_mygit.txt 파일입니다.
+
+mygit_clone 에서 수정한 내용의 줄입니다.
